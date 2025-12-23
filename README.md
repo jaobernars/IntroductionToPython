@@ -4,3 +4,9 @@
 ### **Sumário**:
 
 **Módulo 1:** [Introdução aos Fundamentos](https://github.com/jaobernars/IntroductionToPython/tree/main/M%C3%B3dulo%201%20%E2%80%94%20Introdu%C3%A7%C3%A3o%20aos%20Fundamentos)
+
+
+
+# Referências:
+
+| [1] | Primeira Referência |
