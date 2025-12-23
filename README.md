@@ -9,4 +9,5 @@
 
 # Referências:
 
-| [1] | Primeira Referência 
+| [1] | Primeira Referência |
+| ------------- | ------------- |
